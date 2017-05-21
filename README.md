@@ -2,4 +2,5 @@
 
 ## Test project for fun
 
-## https://neakit.github.io/
+[GitHub](https://neakit.github.io/)
+
